@@ -15,12 +15,20 @@ p{
 }
 
 button{
+    
     background-color: #3498db;
     color: white;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
     border-radius: 5px;
+    
+}
+
+.btncenter{
+    display: block;
+    margin: auto;
+
 }
 
 button:hover{
